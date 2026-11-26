@@ -1,4 +1,4 @@
-# ELSTER-API
+# beA.expert ELSTER API - Python example
 
 Example how to use the beA.expert ELSTER-API to send message using ELSTER
 
@@ -6,5 +6,6 @@ Example how to use the beA.expert ELSTER-API to send message using ELSTER
 
 Read more: https://bea.expert/elster-api/
 
-## License
-Open source. To be used with a ELSTER-API-Account.
+## Licence
+
+GPL-2.0 or BSD-3-Clause, at your option: see `LICENSE`. To be used with an ELSTER-API account.
